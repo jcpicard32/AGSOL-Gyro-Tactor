@@ -6,7 +6,6 @@ KNOWN ISSUES:
   1. This device will only work for movement in one direction in its current state.
   2. Acceleration in the Y direction seems to have smaller magnitudes than on the other two axis. More testing is needed to determine why      this is.
   3. The tactor does not seem to like taking the output values in its current state.
-  4. 
    
 TO DO:
   1. Fix accelerometer and gyro gain using the format of x-accel
