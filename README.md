@@ -1,5 +1,6 @@
 # AGSOL-Gyro-Tactor
 ABOUT:
+
 This is a Prototype of a general purpose module to use gyroscope measurements for playing different vibration effects. The base system includes a MPU_6000 gyroscope/accelerometer, an Adafruit tactor controller, and an Arduino Uno. It reads and calibrates incoming acceleration values and provides tactile feedback to the user regarding acceleration. The ultimate goal is to collect additional data for motion experiments.
 
 HOW TO USE:
